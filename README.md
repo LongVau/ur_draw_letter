@@ -1,4 +1,4 @@
-```markdown
+
 ## 🚀 Hướng dẫn cài đặt và khởi chạy
 
 ### 1. Cài đặt các gói phụ thuộc (Dependencies)
